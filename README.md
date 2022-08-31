@@ -1,21 +1,21 @@
 # Koinx Task
 
-### Setup
+## Setup
 
--   Cloning the code
+### Cloning the code
 
 ```
-git clone
-cd
+git clone koinx-task
+cd koinx-task
 ```
 
--   Setting up the env variables
+### Setting up the env variables
 
 ```
 cp .env.example .env
 ```
 
-    Note: Make resure to add the values to the .env file
+    Note: Make sure to add the values to the .env file
 
 ### Starting the server
 
