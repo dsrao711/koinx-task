@@ -36,3 +36,10 @@ cp .env.example .env
     ```
 
     This will start the server in production mode
+    
+ Please check the screeshots folder to see the output for each task 
+ 
+ -  Task 1 : For `transaction` endpoint , the transactions for specific wallet address are fetched and stored in DB
+ -  Task 2 : Ethereum prices are stored in db every minute
+ -  Task 3 : For `balance` endpoint , the current balance and ethereum price is displayed
+
